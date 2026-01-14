@@ -68,7 +68,7 @@ Open [http://localhost:3000](http://localhost:3000) to start your research.
 ## 🏗️ Tech Stack
 
 - **Framework**: [Next.js 15 (App Router)](https://nextjs.org/)
-- **AI Model**: [Google Gemini 2.0 Flash](https://ai.google.dev/)
+- **AI Model**: [Google Gemini 2.5 Flash](https://ai.google.dev/)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
 - **Icons**: [Lucide React](https://lucide.dev/)
 - **PDF Logic**: [jsPDF](https://github.com/parallax/jsPDF) + [html2canvas](https://html2canvas.hertzen.com/)
