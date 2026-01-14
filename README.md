@@ -3,7 +3,7 @@
 **Deep-Dive Digest** is a next-generation, AI-powered research assistant that transforms a single topic into a comprehensive, multi-dimensional report. Unlike standard search engines, it utilizes a **6-Layer Research-First Architecture** to synthesize insights from across the entire digital spectrum—including the open web, academic archives, open-source repositories, and even the dark web.
 
 [![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
-[![Gemini](https://img.shields.io/badge/Google-Gemini_2.0_Flash-blue?style=for-the-badge&logo=google-gemini)](https://deepmind.google/technologies/gemini/)
+[![Gemini](https://img.shields.io/badge/Google-Gemini_2.5_Flash-blue?style=for-the-badge&logo=google-gemini)](https://deepmind.google/technologies/gemini/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 
 ---
@@ -26,7 +26,7 @@ Every section of your digest is uniquely visualized by AI. Using **Pollinations 
 One-click export allows you to save your entire research session as a high-quality, dark-themed PDF, perfect for offline reading or sharing.
 
 ### 🛡️ Hallucination-Free Analysis
-Powered by **Gemini 2.0 Flash**, our LLM layer is strictly constrained to synthesize information *only* from the verified research results fetched in Layer 1.
+Powered by **Gemini 2.5 Flash**, our LLM layer is strictly constrained to synthesize information *only* from the verified research results fetched in Layer 1.
 
 ---
 
