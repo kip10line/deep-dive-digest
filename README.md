@@ -34,7 +34,7 @@ Powered by **Gemini 2.5 Flash**, our LLM layer is strictly constrained to synthe
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/deep-dive-digest.git
+git clone https://github.com/kip10line/deep-dive-digest.git
 cd deep-dive-digest
 ```
 
